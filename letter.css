@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(255, 247, 136);
+}
+
+header {
+    border: 2px solid rgb(10, 40, 122); 
+}
+
+.derecha{
+    margin: 15px;
+    text-align: right;
+    color:rgb(10, 40, 122)
+}
+
+.izquierda{
+    margin: 15px;
+    color: rgb(10, 40, 122);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:brown;
+    text-shadow: 2px 10px pink;
+    text-decoration: underline;
+    
+}
+
+main p {
+    text-align: justify;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 30px;
+
+}
